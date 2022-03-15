@@ -2,7 +2,7 @@
 #define HITTABLE_H
 #include "rtweekend.h"
 
-
+//test?
 #include "ray.h"
 class material;
 struct hit_record {
