@@ -4,7 +4,7 @@
 #include "hittable.h"
 #include "vec3.h"
 
-//will generate sphere object 
+//will generate sphere objects 
 class sphere : public hittable {
     public:
         sphere() {}
